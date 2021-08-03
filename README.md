@@ -18,4 +18,4 @@ BPMN JUnit Test - This folder will contain my JAVA Project with screenshots for 
 
 BPMN Diagrams Test Versions - These are test versions of my BPMN diagrams with version numbers next to them (see folders BPMN Diagram Simple and BPMN Diagram Complex for the final versions).
 
-Note every folder has a README.md file contained within that describes the folder in more depth.
+Note: Every folder has a README.md file contained within that describes the folder in more depth.
