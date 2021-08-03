@@ -1,6 +1,6 @@
 # DISP-CW
 
-UFCFAF-30-3 Individual systems development portfolio.
+UFCFAF-30-3 Individual Systems Development Portfolio
 
 This repository holds my DISP Portfolio.
 
