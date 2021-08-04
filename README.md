@@ -6,6 +6,8 @@ This repository holds my DISP Portfolio.
 
 The dates are wrong due to switching the files over from Gitlab.
 
+I used source tree to push my work to this repository.
+
 Zachman Framework - This folder will contain my Zachman Framework and a breif description of the enterprise and the role of information systems for task 1 of the assignment.
 
 BPMN Diagram Simple - This folder will contain my final BPMN diagram for task 2 of the assignment.
